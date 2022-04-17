@@ -6,5 +6,6 @@ public class Main {
         System.out.println("kurt177");
         System.out.println("try kurt177");
         System.out.println("try ihsan kurt177");
+        System.out.println("try ihsandan mastera kurt177");
     }
 }
