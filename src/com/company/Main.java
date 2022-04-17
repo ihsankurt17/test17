@@ -8,5 +8,6 @@ public class Main {
         System.out.println("try ihsan kurt177");
         System.out.println("try masterdan ihsana kurt177");
         System.out.println("try ihsandan mastera  kurt177");
+        System.out.println("try ihsandan mastera gitHub ile  kurt177");
     }
 }
