@@ -12,6 +12,7 @@ public class Main {
         System.out.println("try rule ihsan");
         System.out.println("try rule master");
         System.out.println("try ihsandan direk rule mastera");
+        System.out.println("try masterdan direk rule ihsana");
 
 
     }
