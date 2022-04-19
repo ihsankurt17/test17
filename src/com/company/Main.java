@@ -15,5 +15,6 @@ public class Main {
         System.out.println("try masterdan direk rule ihsana");
 
 
+
     }
 }
