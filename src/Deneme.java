@@ -23,5 +23,7 @@ public class Deneme {
         Deneme dnm= new Deneme(3,4,5);
         System.out.println(dnm.x*dnm.y);
 
+
+
     }
 }
